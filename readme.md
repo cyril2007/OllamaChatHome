@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ollama Chat Home
-<img src="https://img.picgo.net/2025/07/09/b10b8e4856010fe59cb5a3b8fb469c0c4a4ec994d036da05.png" alt="OllamaChatHome" border="0" width="70" height="70">
+![OllamaChatHome](.Readme/logo.png)
 
 ⭐ 一个基于Ollama API的赛博朋克风格聊天网页 ⭐
 
@@ -73,7 +73,7 @@ ollama run qwen3:4b
 
 ## 截图
 
-<img src="https://img.picgo.net/2025/07/09/cebfd5ceebc1ed8d4d79ef5a0f12825eeae5fd7f1a73d8ce.png" alt="示例" border="0">
+![OllamaChatHome](.Readme/示例.png)
 
 ## 许可证
 
