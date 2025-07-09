@@ -1,6 +1,13 @@
-# Ollama Chat Home
+<div align="center">
 
-一个基于Ollama API的赛博朋克风格聊天网页
+# Ollama Chat Home
+<img src="https://img.picgo.net/2025/07/09/b10b8e4856010fe59cb5a3b8fb469c0c4a4ec994d036da05.png" alt="OllamaChatHome" border="0" width="70" height="70">
+
+⭐ 一个基于Ollama API的赛博朋克风格聊天网页 ⭐
+
+</div><br>
+
+
 
 ## 功能特点
 
@@ -59,6 +66,14 @@ ollama run qwen3:4b
 4. 选择部署目录(如果是根目录则保留/)
 5. 点击Save，等待部署完成
 6. 访问提供的github.io链接即可使用
+
+## 其他
+
+可访问Releases下载打包版本
+
+## 截图
+
+<img src="https://img.picgo.net/2025/07/09/cebfd5ceebc1ed8d4d79ef5a0f12825eeae5fd7f1a73d8ce.png" alt="示例" border="0">
 
 ## 许可证
 
